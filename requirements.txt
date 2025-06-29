@@ -3,7 +3,19 @@ joblib
 matplotlib
 numpy
 pandas
+shapstreamlit
+PyPDF2
+SpeechRecognition
+pyaudio
+emoji
+fpdf
+joblib
+matplotlib
+numpy
+pandas
 shap
+scikit-learn
+
 scikit-learn
 streamlit
 
