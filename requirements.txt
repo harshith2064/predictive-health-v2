@@ -1,12 +1,7 @@
 streamlit
-PyPDF2
-SpeechRecognition
-pyaudio
-emoji
-fpdf
-joblib
-matplotlib
-numpy
-pandas
-shap
+requests
 scikit-learn
+pandas
+numpy
+matplotlib
+openai
