@@ -1,9 +1,4 @@
-fpdf
-joblib
-matplotlib
-numpy
-pandas
-shapstreamlit
+streamlit
 PyPDF2
 SpeechRecognition
 pyaudio
@@ -15,7 +10,3 @@ numpy
 pandas
 shap
 scikit-learn
-
-scikit-learn
-streamlit
-
